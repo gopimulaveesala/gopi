@@ -1,0 +1,49 @@
+OVERVIEW
+
+Please ensure you have successfully completed both Final Project - Part 1 and Final Project - Part 2 prior to taking the Peer-graded Final Assignment. This Final Assignment will be graded by your peers who are also completing this assignment within the same session.
+
+GRADING CRITERIA
+
+There are a total of 20 points possible for this final project.  This Final Assignment is 20% of your total grade.
+
+In addition to the tasks below, you are required to submit the following files:
+
+- Excel file named sales_data_sample_PART1.XLSX for Part 1 of the final assignment.
+
+- Excel file named sales_data_sample_PART2.XLSX for Part 2 of the final assignment.
+
+Your grade will be based on completing the following tasks: 
+
+Part 1: 
+
+Task 1: Is the CSV file saved as an XLSX file?
+
+Task 1: Are all columns widened so that all the data is visible? 
+
+Task 3: Are all empty rows removed correctly? 
+
+Task 4: Are duplicated records removed correctly?
+
+Task 5: Is column A sorted correctly?
+
+Task 6: Are the numbers formatted correctly?
+
+Task 7: Are all double-spaces removed from the data correctly?
+
+Task 8: Are the two columns combined into a single column correctly?
+
+Task 9: Has the workbook been saved correctly?
+
+Part 2: 
+
+Task 10: Is the Format as Table option applied correctly?
+
+Task 11: Are the five correct AutoSum values calculated correctly?
+
+Task 12: Is the pivot table created correctly?
+
+Task 13: Is the pivot table data sorted correctly?
+
+Task 14: Has the pivot table been created two more times?  
+
+Task 15: Has the workbook been saved correctly?
